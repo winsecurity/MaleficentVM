@@ -1,12 +1,12 @@
 # MaleficentVM
-This is practice VM for malware development
+This is practice VM for malware development. 
 
 
 # What is this VM?
 This VM provides practice challenges for malware development just like ctf challenges. VM also comes with .NET framework installed incase if you want to use c# for malware development.
 
 # Downloading the VM
-- Use the link [here](https://drive.google.com/file/d/1D6WAc0RXlxY1PwYUI36JRqGRhER8Wnmb/view?usp=sharing) to download the VM
+- Use the link [here](https://drive.google.com/file/d/1D6WAc0RXlxY1PwYUI36JRqGRhER8Wnmb/view?usp=sharing) to download the VM, it's around 21gb in size
 
 # Setup
 - Download the .ova file
