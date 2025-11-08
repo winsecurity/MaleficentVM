@@ -30,5 +30,9 @@ python main.py
 
 <img width="3261" height="1946" alt="image" src="https://github.com/user-attachments/assets/65b80f0f-e33c-49e9-8fcb-cf109874a5eb" />
 
+<img width="3393" height="1421" alt="image" src="https://github.com/user-attachments/assets/980a37f4-0db1-46e4-b0b9-87e8bfc6cfb8" />
+
+<img width="3475" height="1640" alt="image" src="https://github.com/user-attachments/assets/817bbdbb-bfa1-4371-8bd0-f7a4723bbbf8" />
+
 # VM users' password
 Credentials for the users are flash:flash and arrow:arrow 
