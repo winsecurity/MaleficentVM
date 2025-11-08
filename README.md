@@ -9,6 +9,16 @@ This VM provides practice challenges for malware development just like ctf chall
 - Download the .ova file
 - Open it with virtual box or vmware workstation
 - Give the VM a name and power on the machine
-- Use nmap or any other ip scanner tools to scan the ip address of the VM
+- Set network adapter settings to bridged so we can scan for ip address using nmap
+- Use nmap or any other ip scanner tools to scan the ip address of the VM, eg: nmap -sn ourkaliip/24 to retrieve all other active hosts on our network
 - Go to your browser and open http://IP_ADDRESS_OF_VM:5000
 - You can see the challenges, write the code in c/c++/rust/c# or any other language and upload the binary to get the flag
+- Take a snapshot of the VM so that you can revert back to the original state if anything error happens
+
+# Sample Challenges
+<img width="3564" height="1318" alt="image" src="https://github.com/user-attachments/assets/0fb5801a-720d-485d-8c61-21c7418de7ae" />
+
+<img width="3261" height="1946" alt="image" src="https://github.com/user-attachments/assets/65b80f0f-e33c-49e9-8fcb-cf109874a5eb" />
+
+# VM users' password
+Credentials for the users are flash:flash and arrow:arrow 
