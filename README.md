@@ -7,6 +7,7 @@ This VM provides practice challenges for malware development just like ctf chall
 
 # Downloading the VM
 - Use the link [here](https://drive.google.com/file/d/1D6WAc0RXlxY1PwYUI36JRqGRhER8Wnmb/view?usp=sharing) to download the VM, it's around 21gb in size
+- Use this Onedrive link [here](https://1drv.ms/u/c/9cfb7c54d8a192bc/IQDeJOFxxl-QQbf-pPopMB4oAQFyizAwjh13CotlHjO3rw0?e=KXM8Cw) incase the google drive link does not work
 
 # Setup
 - Download the .ova file
