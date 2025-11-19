@@ -17,7 +17,7 @@ This VM provides practice challenges for malware development just like ctf chall
 - Use nmap or any other ip scanner tools to scan the ip address of the VM, eg: nmap -sn ourkaliip/24 to retrieve all other active hosts on our network
 - Go to your browser and open http://IP_ADDRESS_OF_VM:5000
 - You can see the challenges, write the code in c/c++/rust/c# or any other language and upload the binary to get the flag
-- Take a snapshot of the VM so that you can revert back to the original state if anything error happens
+- Take a snapshot of the VM so that you can revert back to the original state if any error happens
 
 # Running the server manually 
 - If the server does not run automatically, login to the vm and run these commands from cmd as administrator
